@@ -1,4 +1,4 @@
-# Tommy Nguyen
+## Tommy Nguyen
 Learning web development just for fun. Use pomotivity to study [here](https://www.pomotivity.com/)!
 
 ## Keep in Touch
