@@ -2,7 +2,7 @@
 Learning web development just for fun. Use pomotivity to study [here](https://www.pomotivity.com/)!
 
 ## Keep in Touch
-- **LinkedIn** [https://www.linkedin.com/in/tommy-nguyen14/](https://www.linkedin.com/in/tommy-nguyen14/)
+- **LinkedIn** [Work In Progress]
 - **Portfolio** [Work In Progress]
 
 ## Stats
